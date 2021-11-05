@@ -22,7 +22,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Estou estudando essas Tecnologias para aperfeiçoa minhas soft skills, meu objetivo é entrar na área de Front End Developer.
+## Atualmente Estou estudando essas Tecnologias para aperfeiçoar minhas soft skills. Meu objetivo é entrar na área de Front End Developer.
 
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
