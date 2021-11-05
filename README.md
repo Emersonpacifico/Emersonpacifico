@@ -30,5 +30,5 @@ Estou estudando essas Tecnologias para igressar como Front End Developer.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
