@@ -13,7 +13,7 @@
 
 
 
-Tenho experiência com essas Tecnologias.
+## Tenho experiência com essas Tecnologias.
 
 ![Javascriopt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@ Tenho experiência com essas Tecnologias.
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-Estou estudando essas Tecnologias para aperfeiçoa minhas soft skills, meu objetivo é entrar na área de Front End Developer.
+## Estou estudando essas Tecnologias para aperfeiçoa minhas soft skills, meu objetivo é entrar na área de Front End Developer.
 
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
