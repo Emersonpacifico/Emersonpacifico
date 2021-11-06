@@ -1,6 +1,6 @@
 # Olá! Eu sou o Emerson Pacifico 👋
 
-## Estudante de Análise e Desenvolvimento de Sistemas e Também estudo na área de Front End Developer.
+## Estudante de Análise e Desenvolvimento de Sistemas e Também de Front End Developer.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonpacifico/)
