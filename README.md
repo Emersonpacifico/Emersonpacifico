@@ -1,6 +1,6 @@
 # Olá! Eu sou o Emerson Pacifico 👋
 
-## Estudante de Análise e Desenvolvimento de Sistemas e Também de Front End Developer.
+## Estudante de Análise e Desenvolvimento de Sistemas | Front End Developer.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonpacifico/)
@@ -32,6 +32,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whiteB)
+
+
 
 
 
