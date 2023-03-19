@@ -23,6 +23,7 @@
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![ADOBE XD](https://img.shields.io/badge/UI%20DESIGN-470137?style=for-the-badge&logo=UI%20DESIGN&logoColor=#FF61F6)
 
 
 ## Estudando essas Tecnologias para aperfeiçoar minhas soft skills.
