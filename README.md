@@ -26,7 +26,7 @@
 ![UI DESIGN](https://img.shields.io/badge/UI%20DESIGN-470137?style=for-the-badge&logo=ui%20desigm&logoColor=#FF61F6)
 
 
-## Estudando essas Tecnologias para aperfeiçoar minhas soft skills.
+## Estudando essas Tecnologias para aperfeiçoar minhas hard skills.
 
 
 ![Javascriopt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
