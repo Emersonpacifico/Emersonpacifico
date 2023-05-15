@@ -7,9 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonpacifico&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&compact=true)](https://github.com/emersonpacifico/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=pie)](https://github.com/emersonpacifico/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=donultchart)](https://github.com/emersonpacifico/github-readme-stats)
 
 ## Tecnologias.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
