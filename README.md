@@ -8,11 +8,6 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonpacifico&show_icons=true&theme=radical)
-
-
-
 ## Tenho experiência com essas Tecnologias.
 
 
@@ -43,5 +38,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
