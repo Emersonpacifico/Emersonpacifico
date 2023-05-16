@@ -14,6 +14,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="Github" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
+  [![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)
  
 </div>
   
