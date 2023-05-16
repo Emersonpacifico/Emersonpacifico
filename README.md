@@ -23,4 +23,5 @@
       
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonpacifico/)
   
-[![Skills](https://devicons.dev.br/icons?icon=Html,Css,Javascript&theme=dark&perline=3)](https://devicons.dev.br/)
+
+[![Skills](https://devicons.dev.br/icons?icon=Javascript,Html,Css,Figma,Adobexd,Photoshop,Git,Github&theme=dark&perline=3)](https://devicons.dev.br/)
