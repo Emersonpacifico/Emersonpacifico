@@ -16,6 +16,8 @@
  ## 👋 CONTACT
   
 
-[![Linkedin]https://devicons.dev.br/icons?icon=LinkedIn&theme=dark)](https://www.linkedin.com/in/emersonpacifico/)
+[![Linkedin](https://devicons.dev.br/icons?icon=LinkedIn&theme=dark)](https://www.linkedin.com/in/emersonpacifico/)
+
+
 
 
