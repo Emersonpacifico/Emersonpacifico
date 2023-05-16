@@ -16,5 +16,6 @@
  ## 👋 CONTACT
   
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonpacifico/)
+[![Linkedin]https://devicons.dev.br/icons?icon=LinkedIn&theme=dark)](https://www.linkedin.com/in/emersonpacifico/)
+
 
