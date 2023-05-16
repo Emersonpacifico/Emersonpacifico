@@ -1,20 +1,25 @@
-# Olá! Eu sou o Emerson Pacifico 👋
+# Olá! Eu sou o Emerson Pacifico 
 
 ## Estudante de Análise e Desenvolvimento de Sistemas | Front End Developer.
+<div>
+  <a href="https://github.com/anakessia">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anakessia&theme=dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakessia&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonpacifico/)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonpacifico&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=donultchart)](https://github.com/emersonpacifico/github-readme-stats)
-
-## Tecnologias.
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ADOBE XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![PHOTOSHOP](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![UI DESIGN](https://img.shields.io/badge/UI%20DESIGN-470137?style=for-the-badge&logo=ui%20desigm&logoColor=#FF61F6)
+ ## 🖥️ TECHNOLOGIES & TOOLS
+<div style="display: inline_block"><br>
+  <img align="center" alt="Emerson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Emerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+ 
+</div>
+  
+ ## 👋 CONTACT
+  
+ <div> 
+      
+      <a href="https://www.linkedin.com/in/emersonpacifico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
