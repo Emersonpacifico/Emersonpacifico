@@ -11,7 +11,7 @@
 
  ## 🖥️ TECHNOLOGIES & TOOLS
 	
-[![Skills](https://devicons.dev.br/icons?icon=Javascript,Html,Css,Figma,Xd,Photoshop,Git,Github,Vscode&theme=dark)](https://devicons.dev.br/)
+[![Skills](https://devicons.dev.br/icons?icon=Html,Css,Javascript,Jquery,Figma,Xd,Photoshop,Git,Github,Vscode&theme=dark)](https://devicons.dev.br/)
   
  ## 👋 CONTACT
   
