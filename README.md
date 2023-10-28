@@ -16,8 +16,6 @@
  ## 👋 CONTACT
   
 
-[![Linkedin](https://icons8.com.br/icon/78Fr72VCwbPq/sass-a-style-sheet-professional-grade-css-extension-language)]
-
 [![Linkedin](https://devicons.dev.br/icons?icon=LinkedIn&theme=dark)](https://www.linkedin.com/in/emersonpacifico/)
 
 
