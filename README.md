@@ -11,7 +11,7 @@
 
  ## 🖥️ TECHNOLOGIES & TOOLS
  <div style="display: inline_block"><br>
-	 <img align="center" alt="Emer-Sass" height="30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+	 <img align="center" alt="Emer-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 	   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersonpacifico&theme=dark&show_icons=true"/>
  </div>
 	
