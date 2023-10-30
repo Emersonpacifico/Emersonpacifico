@@ -10,8 +10,8 @@
 </div>
 
  ## 🖥️ TECHNOLOGIES & TOOLS
- <div style="display: inline-block"><br>
-	 <img aligh="center"> alt="Emer-Sass" height="30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <div style="display: inline_block"><br>
+	 <img align="center"> alt="Emer-Sass" height="30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  </div>
 	
 [![Skills](https://devicons.dev.br/icons?icon=Html,Css,Javascript,Jquery,Bootstrap,Figma,Xd,Photoshop,Git,Github,Vscode&theme=dark)](https://devicons.dev.br/)
