@@ -7,11 +7,12 @@
   <a href="https://github.com/emersonpacifico">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersonpacifico&theme=dark&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=compact&langs_count=7&theme=dark"/>
- <img height="160em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-          
 </div>
 
  ## 🖥️ TECHNOLOGIES & TOOLS
+ <div style="display: inline-block"><br>
+	 <img aligh="center"> alt="Emer-Sass" height="30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ </div>
 	
 [![Skills](https://devicons.dev.br/icons?icon=Html,Css,Javascript,Jquery,Bootstrap,Figma,Xd,Photoshop,Git,Github,Vscode&theme=dark)](https://devicons.dev.br/)
   
