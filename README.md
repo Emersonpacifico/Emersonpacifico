@@ -5,13 +5,13 @@
 
 <div>
   <a href="https://github.com/emersonpacifico">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emersonpacifico&theme=dark&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmersonPacifico&theme=dark&show_icons=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpacifico&layout=donut&langs_count=7&theme=dark"/>
 
 </div>
 
  ## 🖥️ TECHNOLOGIES & TOOLS
- <div style="display: flex", style= "gap:20px" ><br>
+ <div style="display: inline_block" ><br>
 	 
 <img align-itens="center" alt="Emer-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img  align-itens="center"  alt="Emer-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
