@@ -1,7 +1,7 @@
 
 # Olá! Eu sou o Emerson Pacifico 
 
-## Estudante de Análise e Desenvolvimento de Sistemas | Front End Developer.
+## Formado em Análise e Desenvolvimento de Sistemas | Front End Developer.
 
 <div>
   <a href="https://github.com/emersonpacifico">
